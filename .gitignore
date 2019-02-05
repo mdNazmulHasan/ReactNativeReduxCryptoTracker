@@ -483,5 +483,7 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+package-lock.json
+yarn.lock
 
 # End of https://www.gitignore.io/api/node,xcode,gradle,android,reactnative,androidstudio,visualstudiocode
